@@ -12,6 +12,7 @@
 		B8196AF729B37CA900A16B61 /* DemoFramworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8196AF629B37CA900A16B61 /* DemoFramworkTests.swift */; };
 		B8196AF829B37CA900A16B61 /* DemoFramwork.h in Headers */ = {isa = PBXBuildFile; fileRef = B8196AEA29B37CA900A16B61 /* DemoFramwork.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B88C246A29B3808F00F1079A /* dfewaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = B88C246929B3808F00F1079A /* dfewaa.swift */; };
+		B8D336E129BD834A00EE0A62 /* kkkkkk.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8D336E029BD834A00EE0A62 /* kkkkkk.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,6 +32,7 @@
 		B8196AF129B37CA900A16B61 /* DemoFramworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoFramworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8196AF629B37CA900A16B61 /* DemoFramworkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoFramworkTests.swift; sourceTree = "<group>"; };
 		B88C246929B3808F00F1079A /* dfewaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dfewaa.swift; sourceTree = "<group>"; };
+		B8D336E029BD834A00EE0A62 /* kkkkkk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kkkkkk.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 		B8196AE929B37CA900A16B61 /* DemoFramwork */ = {
 			isa = PBXGroup;
 			children = (
+				B8D336E029BD834A00EE0A62 /* kkkkkk.swift */,
 				B88C246929B3808F00F1079A /* dfewaa.swift */,
 				B8196AEA29B37CA900A16B61 /* DemoFramwork.h */,
 				B8196AEB29B37CA900A16B61 /* DemoFramwork.docc */,
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B8196AEC29B37CA900A16B61 /* DemoFramwork.docc in Sources */,
+				B8D336E129BD834A00EE0A62 /* kkkkkk.swift in Sources */,
 				B88C246A29B3808F00F1079A /* dfewaa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
